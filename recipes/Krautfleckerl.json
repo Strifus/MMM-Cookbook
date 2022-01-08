@@ -1,0 +1,73 @@
+{
+  "Name": "Krautfleckerl",
+  "Size":
+  {
+    "Value": "4",
+    "Unit": "Portionen"
+  },
+  "Time":
+  {
+    "Value": "45",
+    "Unit": "min"
+  },
+  "Ingredients":
+  [
+  {
+    "Name": "Kraut",
+    "Value": "500",
+    "Unit": "g"
+  },
+  {
+    "Name": "Penne",
+    "Value": "250",
+    "Unit": "g"
+  },
+  {
+    "Name": "Zwiebel",
+    "Value": "1/4",
+    "Unit": "Stk"
+  },
+  {
+    "Name": "Zucker",
+    "Value": "1",
+    "Unit": "EL"
+  },
+  {
+    "Name": "Wasser",
+    "Value": "100",
+    "Unit": "ml"
+  },
+  {
+    "Name": "Paprikapulver",
+    "Value": "1",
+    "Unit": "EL"
+  },
+  {
+    "Name": "Kümmel",
+    "Value": "1",
+    "Unit": "TL"
+  },
+  {
+    "Name": "Sonnenblumenöl",
+    "Value": "2",
+    "Unit": "TL"
+  },
+  {
+    "Name": "Salz",
+    "Value": "1",
+    "Unit": "Prise"
+  },
+  {
+    "Name": "Pfeffer",
+    "Value": "1",
+    "Unit": "Prise"
+  }
+
+  ],
+  "Preparation":
+  [
+  {"Step": "Das Kraut in Streifen schneiden und die Zwiebel klein hacken."},
+  {"Step": "Das Öl in eine Pfanne geben und erhitzen. Den Zucker dazugeben und karamelisieren lassen. Danach die gehackte Zwiebel dazugeben und glasig anbraten. Dann das Kraut zugeben und etwas schmoren lassen. Mit Wasser aufgießen. Das Paprikapulver und den Kümmel einmischen sowie mit Salz und Pfeffer abschmecken. Das ganze bei kleiner Flamme ca. 15 Minuten köcheln lassen."},
+  {"Step": "Währenddessen die Nudeln in Salzwasser bissfest kochen. Die abgeseihten Nudeln in die Pfanne mit dem Kraut geben und vermischen. Voilà!"}
+  ]
+}
