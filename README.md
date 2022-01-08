@@ -3,13 +3,12 @@ This is an extension for the [MagicMirror](https://github.com/MichMich/MagicMirr
 
 ## Screenshots
 
-|![Example: Exemplary recipe (simple style)](screenshots/recipe_simple.png)<br>*Exemplary recipe (simple style)*|
-|---|
-|![Example: Exemplary recipe (advanced style)](screenshots/recipe_advanced.png)<br>*Exemplary recipe (advanced style)*|
+![Example: Exemplary recipe (simple style)](screenshots/recipe_simple.png)<br>*Exemplary recipe (simple style)*
+![Example: Exemplary recipe (advanced style)](screenshots/recipe_advanced.png)<br>*Exemplary recipe (advanced style)*
 
 ## Installation
 
-Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/strifu/MMM-Cookbook.git`.
+Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/Strifus/MMM-Cookbook.git`.
 
 ## Using the module
 
