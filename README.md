@@ -41,7 +41,7 @@ The following properties can be configured:
 		<tr>
 			<td><code>url</code></td>
 			<td>Path to directory containing the recipes.<br>
-				<br><b>Default value:</b> <code>modules/MMM-Cookbook/recipes/</code>
+			    <b>Default value:</b> <code>modules/MMM-Cookbook/recipes/</code>
 			</td>
 		</tr>
 	</tbody>
@@ -175,7 +175,7 @@ An exemplary recipe in the simple style format can be found in directory `MMM-Co
 The MIT License (MIT)
 =====================
 
-Copyright © 2022 Strifus Blackman
+Copyright © 2022 Strifus
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
