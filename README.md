@@ -73,41 +73,41 @@ modules: [
 ### Simple style recipe
 ````javascript
 {
-  "Name": "Name of recipe",
-  "Size":
+  "name": "Name of recipe",
+  "size":
   {
-    "Value": "4",
-    "Unit": "Portions"
+    "value": "4",
+    "unit": "Portions"
   },
-  "Time":
+  "time":
   {
-    "Value": "45",
-    "Unit": "min"
+    "value": "45",
+    "unit": "min"
   },
-  "Ingredients":
+  "ingredients":
   [
   {
-    "Name": "Name of ingredient 1",
-    "Value": "500",
-    "Unit": "g"
+    "name": "Name of ingredient 1",
+    "value": "500",
+    "unit": "g"
   },
   {
-    "Name": "Name of ingredient 1",
-    "Value": "250",
-    "Unit": "ml"
+    "name": "Name of ingredient 1",
+    "value": "250",
+    "unit": "ml"
   },
   {
-    "Name": "...",
-    "Value": "1/4",
-    "Unit": "Piece"
+    "name": "...",
+    "value": "1/4",
+    "unit": "Piece"
   }
   ],
   
-  "Preparation":
+  "preparation":
   [
-  {"Step": "Description of preparation step 1"},
-  {"Step": "Description of preparation step 2"},
-  {"Step": "..."}
+  {"step": "Description of preparation step 1"},
+  {"step": "Description of preparation step 2"},
+  {"step": "..."}
   ]
 }
 ````
@@ -116,58 +116,58 @@ An exemplary recipe in the simple style format can be found in directory `MMM-Co
 ### Advanced style recipe
 ````javascript
 {
-  "Name": "Name of recipe",
-  "Size":
+  "name": "Name of recipe",
+  "size":
   {
-    "Value": "4",
-    "Unit": "Portions"
+    "value": "4",
+    "unit": "Portions"
   },
-  "Time":
+  "time":
   {
-    "Value": "45",
-    "Unit": "min"
+    "value": "45",
+    "unit": "min"
   },
-  "Parts":
+  "parts":
   [
   {
-    "Name": "Name of part 1 of recipe",
-    "Ingredients":
+    "name": "Name of part 1 of recipe",
+    "ingredients":
     [
     {
-        "Name": "Name of ingredient 1.1",
-        "Value": "180",
-        "Unit": "g"
+        "name": "Name of ingredient 1.1",
+        "value": "180",
+        "unit": "g"
     },
     {
-        "Name": "Name of ingredient 1.2",
-        "Value": "80",
-        "Unit": "g"
+        "name": "Name of ingredient 1.2",
+        "value": "80",
+        "unit": "g"
     }
     ]
   },
   {
-    "Name": "Name of part 2 of recipe",
-    "Ingredients":
+    "name": "Name of part 2 of recipe",
+    "ingredients":
     [
     {
-        "Name": "Name of ingredient 2.1",
-        "Value": "375",
-        "Unit": "ml"
+        "name": "Name of ingredient 2.1",
+        "value": "375",
+        "unit": "ml"
     },
     {
-        "Name": "Name of ingredient 2.1",
-        "Value": "125",
-        "Unit": "g"
+        "name": "Name of ingredient 2.1",
+        "value": "125",
+        "unit": "g"
     }
     ]
   }
   ],
   
-  "Preparation":
+  "preparation":
   [
-  {"Step": "Description of preparation step 1"},
-  {"Step": "Description of preparation step 2"},
-  {"Step": "..."}
+  {"step": "Description of preparation step 1"},
+  {"step": "Description of preparation step 2"},
+  {"step": "..."}
   ]
 }
 ````
